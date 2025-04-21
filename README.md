@@ -36,4 +36,4 @@ Any significant changes will be communicated in the extension's update notes or 
 
 If you have any questions or concerns about this privacy policy, feel free to contact us:
 
-📧 **[loremdevs@gmail.com]**
+📧 **loremdevs@gmail.com**
