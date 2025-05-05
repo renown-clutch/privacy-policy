@@ -16,7 +16,7 @@ We do **not**:
 
 ## 2. Local Storage
 
-The extension may store your personal settings (such as UI preferences or feature toggles) **locally** in your browser using Chrome’s `storage` API.  
+The extension may store your personal settings (such as UI preferences or feature toggles) **locally** in your browser using `storage` API.  
 This information never leaves your device and is not shared with any third parties.
 
 ## 3. External Services
