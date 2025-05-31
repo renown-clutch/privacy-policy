@@ -1,6 +1,6 @@
 # Privacy Policy for Clutch – Renown.gg Extension
 
-**Effective Date:** Dec. 19 2024
+**Effective Date:** May 31 2025
 
 Clutch is a browser extension designed to enhance the user experience on [Renown.gg](https://renown.gg). We respect your privacy and are committed to protecting it. This privacy policy explains what data we collect, how we use it, and your responsibilities when using our services.
 
