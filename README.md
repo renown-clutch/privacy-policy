@@ -72,7 +72,6 @@ The following are strictly prohibited in chat:
 
 ### 4.5 Reporting and Safety
 
-- Users can block and report other users within the chat interface
 - For serious safety concerns, contact local authorities directly
 - We may disable the chat feature at any time without notice
 
